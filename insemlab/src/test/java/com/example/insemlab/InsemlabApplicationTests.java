@@ -1,0 +1,13 @@
+package com.example.insemlab;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class InsemlabApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
